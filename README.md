@@ -1,6 +1,7 @@
 # React Props and Bootstrap Examples
 
-> This repo contains examples of using props to dynamicly create components that are styled with Bootstrap classes. Example components include Header, Jumbotron, Panel, and Button. 
+> This repo contains examples of using props to dynamically create components that are styled with Bootstrap classes. Example components include Header, Jumbotron, Panel, and Button.
+>
 > <img src="https://github.com/scbowler/react-props-bootstrap/blob/master/zdemo_screenshot.jpg?raw=true">
 
 ### Packages Used
@@ -17,7 +18,7 @@
 >    - `git clone https://github.com/[Your Username]/react-props-bootstrap.git`
 > 1. Change directory into the newly cloned repo
 >    - `cd react-props-bootstrap`
-> 1. Install dependencies 
+> 1. Install dependencies
 >    - `npm install`
 > 1. Start dev server
 >    - `npm start`
@@ -27,5 +28,5 @@
 
 > 1. Run webpack to bundle files
 >    - `npm run bundle`
-> 
+>
 > **NOTE:** *After bundling you can not directly run your app locally. You must run your app from the root directory of a server.*
