@@ -1,7 +1,7 @@
 {
-  "name": "react_starter",
+  "name": "react-props-bootstrap",
   "version": "1.0.0",
-  "description": "Starting setup for react redux project",
+  "description": "Demo project to show how to use props to create dynamic components using bootstrap classes",
   "main": "index.js",
   "scripts": {
     "start": "node dev_server.js",
@@ -12,13 +12,11 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Learning-Fuze/react_starter.git"
+    "url": "https://github.com/scbowler/react-props-bootstrap.git"
   },
   "dependencies": {
     "react": "^15.4.2",
-    "react-dom": "^15.4.2",
-    "react-redux": "^5.0.2",
-    "redux": "^3.6.0"
+    "react-dom": "^15.4.2"
   },
   "devDependencies": {
     "babel-core": "^6.13.2",
